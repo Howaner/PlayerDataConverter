@@ -12,5 +12,5 @@ Usage
  * Download the [source](https://github.com/Howaner/PlayerDataConverter/archive/master.zip)
  * Copy the PlayerDataConverter/ folder to your Plugins/ folder
  * Add the plugin to the settings.ini
- * Start / Read the server
+ * Start / Reload the server
 
